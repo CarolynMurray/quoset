@@ -1,0 +1,23 @@
+{
+  "name": "quoset",
+  "version": "1.0.0",
+  "description": "Verify NFT ownership of ERC-721 and ERC-1155 tokens on Ethereum blockchain",
+  "main": "index.js",
+  "keywords": [
+    "nft",
+    "eth",
+    "soluta",
+    "harum",
+    "natus"
+  ],
+  "author": "MarceloRussel",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarolynMurray/quoset.git"
+  },
+  "homepage": "https://github.com/CarolynMurray/quoset.git"
+}
